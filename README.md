@@ -1,4 +1,4 @@
-## Hello World I'M Student In Nurul Fikri 👋
+## Hello World I'M Junior Developer & Desaigner Web  👋
 
 ![Anime](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF2aGt1MHMwOHZhbXRrYjZybmdtcGVuc3o1NzYzY3I5M2V3emFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif)
 
